@@ -1,6 +1,6 @@
 ---
 title: Tech Stack Page
-layout: template
+layout: page
 filename: tech-stack.md
 ---
 
