@@ -1,6 +1,6 @@
 ---
 title: First Page
-layout: page
+layout: home
 filename: index.md
 ---
 
